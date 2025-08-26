@@ -1,6 +1,5 @@
 import React from 'react'
 import './About.css'
-import logo from '../../Assets/logo.jpg';
 import dpp from '../../assets/dp picter.jpg';
 
 const About = () => {

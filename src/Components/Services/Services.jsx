@@ -1,6 +1,5 @@
 import React from 'react'
 import './Services.css'
-import logo from '../../Assets/logo.jpg'
 import Services_data from '../../assets/services_data'
 import Arrow from'../../assets/Arrow-icon.jpg';
 

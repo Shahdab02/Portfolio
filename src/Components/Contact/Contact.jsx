@@ -1,10 +1,9 @@
 import React from 'react'
 import './Contact.css';
-// import them from '../../assets/dp.jpg'
 import contact from '../../assets/contact.jpeg'
 import email from "../../assets/Email.jpeg";
 import location from "../../assets/location.jpeg";
-// import Swal from "sweetalert2";
+
 import { useForm, ValidationError } from '@formspree/react';
 
 
