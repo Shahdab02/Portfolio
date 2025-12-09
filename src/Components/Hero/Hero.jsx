@@ -8,10 +8,10 @@ const Hero = () => {
     <div id="home" className="hero">
       <img src={dp} alt="" height={210} width={200} className="dp" />
       <h1>
-        <span>I'm MD Shahdab,</span> frontend devloper based on India.
+        <span>I'm MD Shahdab,</span> frontend developer based on India.
       </h1>
       <p>
-        I am a frontend devloper from Jaipur Rajasthan India.
+        I am a frontend developer from Jaipur Rajasthan India.
       </p>
       <div className="hero-action">
         <div className="hero-connect" onClick={() => setmenu("contact")}>
